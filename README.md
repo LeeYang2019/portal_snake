@@ -8,9 +8,23 @@ In this programming assignment, I implemented the game Portal Snake. This game c
 
 ## The following are what I learned from the project:
 
+<ol>
+    <li>
         Learn to instantiate and use methods from provided classes based on their documentation.
+    </li>
+    <li>
         Understand the difference between static and non-static class methods.
-        Organize your own code into classes for modularity and code re-usability.
+    </li>
+    <li>
+        Organized my code into classes for modularity and code re-usability.
+    </li>
+    <li>
         Become more familiar with the architecture of real-time simulations and games.
+    </li>
+    <li>
         Gain experience using ArrayList collections of different object types.
+    </li>
+    <li>
         Create a basic computer game that can be expanded with many fun new features.
+    </li>
+</ol>
